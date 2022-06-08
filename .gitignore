@@ -1,2 +1,5 @@
 *.pyc
 
+# exclude env
+env
+
